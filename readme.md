@@ -1,4 +1,4 @@
-On app, home and contact run
+On app, contact and home run
 
 ```
 npm run build && npm run dev
